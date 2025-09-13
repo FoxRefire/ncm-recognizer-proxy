@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "web-audio-api-cjs": "^0.2.4"
+  }
+}
